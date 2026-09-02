@@ -2,7 +2,7 @@
 
 Aplikasi web sederhana untuk mengelola peminjaman dan pengembalian buku di perpustakaan sekolah, dibangun sebagai proyek Uji Kompetensi Keahlian (UKK) SMK jurusan Rekayasa Perangkat Lunak (kode soal **KM25.4.1.1**).
 
-Sekolah: **SMK N 1 Sanden**
+Sekolah: **SMP 2 PURWOSARI**
 Tahun pelajaran: **2025/2026**
 
 > Aplikasi ini dirancang untuk berjalan sepenuhnya di **localhost** (tanpa koneksi internet).
