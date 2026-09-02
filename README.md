@@ -120,7 +120,7 @@ Password disimpan dalam bentuk hash `md5()`.
 
 ![Denah lokasi SMP Negeri 2 Purwosari](denah_smp_negeri_2_purwosari_v2.png)
 
-Dokumen penjelasan algoritma lengkap tersedia di [`Algoritma_Aplikasi_Peminjaman_Buku.docx`](Algoritma_Aplikasi_Peminjaman_Buku.docx).
+Dokumen penjelasan algoritma lengkap tersedia di [`Algoritma_Aplikasi_Peminjaman_Buku.pdf`](Algoritma_Aplikasi_Peminjaman_Buku.pdf).
 
 ## Lisensi
 
