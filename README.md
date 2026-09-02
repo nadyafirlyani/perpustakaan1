@@ -2,10 +2,16 @@
 
 Aplikasi web sederhana untuk mengelola peminjaman dan pengembalian buku di perpustakaan sekolah, dibangun sebagai proyek Uji Kompetensi Keahlian (UKK) SMK jurusan Rekayasa Perangkat Lunak (kode soal **KM25.4.1.1**).
 
-Sekolah: **SMP 2 PURWOSARI**
+Sekolah: **SMPN 2 PURWOSARI**
 Tahun pelajaran: **2025/2026**
 
 > Aplikasi ini dirancang untuk berjalan sepenuhnya di **localhost** (tanpa koneksi internet).
+
+## Tautan
+
+- 🔗 Demo langsung: [nadiauk1.free.nf](https://nadiauk1.free.nf/)
+- 🎨 Desain (Google Stitch): [stitch.withgoogle.com](https://stitch.withgoogle.com/projects/5024306040259336741?pli=1)
+- 🖥️ Panel hosting (InfinityFree): [dash.infinityfree.com](https://dash.infinityfree.com/accounts/if0_42761293/domains/nadiauk1.free.nf)
 
 ![Tampilan aplikasi](ss.png)
 
